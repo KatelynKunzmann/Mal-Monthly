@@ -1,4 +1,5 @@
-![Malware Flash Drive](/public/images/bugdrive.png)
+<img src="/public/images/bugdrive.png" alt="bug drive" width="250" height="250"
+            style="display: block; margin-left: auto; margin-right: auto">
 
 # Mal-Monthly
 
